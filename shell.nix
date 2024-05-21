@@ -3,7 +3,6 @@ mkShell {
   packages = [
 	flac
 	gum
-	fd
 	alsa-utils
   ];
 }
