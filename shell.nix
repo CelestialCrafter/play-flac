@@ -4,6 +4,7 @@ mkShell {
 	flac
 	gum
 	alsa-utils
+	cava
   ];
 }
 
